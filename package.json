@@ -2,9 +2,13 @@
   "name": "express-decompress",
   "version": "0.0.1",
   "author": "Bruno Windels <bruno.windels@gmail.com>",
-  "description": "Express middleware to handle http request compression",
+  "description": "Express middleware to decompress content-encoding'ed requests",
   "main": "decompress.js",
   "engines": {
     "node": ">=0.6.0"
+  },
+  "repository" : {
+  	"type" : "git",
+  	"url" : "https://github.com/bwindels/express-decompress.git"
   }
 }
