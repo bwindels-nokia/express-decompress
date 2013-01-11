@@ -1,0 +1,10 @@
+{
+  "name": "express-decompress",
+  "version": "0.0.1",
+  "author": "Bruno Windels <bruno.windels@gmail.com>",
+  "description": "Express middleware to handle http request compression",
+  "main": "decompress.js",
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
